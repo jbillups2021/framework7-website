@@ -73,7 +73,7 @@
     "rollup-plugin-svelte": "^7.1.0",
     "rollup-plugin-vue": "^6.0.0",
     "strip-indent": "^3.0.0",
-    "svelte": "^3.46.4",
+    "svelte": "^4.2.19",
     "terser": "^5.17.6",
     "through2": "^4.0.2",
     "vue": "^3.2.31"
